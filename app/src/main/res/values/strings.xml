@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Desafio ZapVivaReal</string>
+    <string name="app_name_title">ZapVivaReal</string>
+    <string name="activity_name_title">Favoritos</string>
+    <string name="loading">Carregando</string>
+    <string name="message_band_offline">Offline - Histórico última consulta</string>
+    <string name="message_erro">Ops! Erro ao tenta buscar as informações. Favor tente novamente.</string>
+    <string name="message_erro_connection">Ops! Você esta sem conexão de internet. Favor, verificar sua conexão e tentar novamente.</string>
+    <string name="info_subtitle_popularity">Popularidade: %1$s</string>
+    <string name="info_subtitle_viewers">Visualizações: %1$s</string>
+    <string name="search_hint">Filtro dos Games</string>
+</resources>
