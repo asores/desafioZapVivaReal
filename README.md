@@ -1,4 +1,3 @@
-# desafioZapVivaReal
 # Desafio ZapVivaReal
 
  Traz para o usuário uma lista dos Top Games da atualizade;
